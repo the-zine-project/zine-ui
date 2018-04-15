@@ -1,11 +1,11 @@
-import React from "react";
-import { render } from "react-dom";
-import { Provider } from "react-redux";
-import { ConnectedRouter } from "react-router-redux";
-import store, { history } from "store";
+import React from 'react';
+import { render } from 'react-dom';
+import { Provider } from 'react-redux';
+import { ConnectedRouter } from 'react-router-redux';
+import store, { history } from 'store';
 import './index.scss';
-import App from "./App";
-import registerServiceWorker from "./registerServiceWorker";
+import App from './App';
+import registerServiceWorker from './registerServiceWorker';
 
 render(
   <Provider store={store}>
@@ -15,6 +15,6 @@ render(
       </div>
     </ConnectedRouter>
   </Provider>,
-  document.getElementById("root")
+  document.getElementById('root')
 );
 registerServiceWorker();
