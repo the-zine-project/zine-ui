@@ -1,0 +1,423 @@
+{
+  "magazines": [
+    {
+      "id": 1,
+      "title": "Boomer Pet Magazine",
+      "ownerName": "Sprinkles Magazine",
+      "description":
+        "Summer 2018 Issue is here....Enjoy!  Amazing articles, advice and popular products we love!",
+      "imageUrl":
+        "https://image.isu.pub/180419002338-db1d9191d197d2972e3d97c018a33f14/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Guide to keeping N.Z. local marine life",
+      "ownerName": "livingart",
+      "description":
+        "A Guide to keeping New Zealand local marine life in an aquarium, with some care tips on different...",
+      "imageUrl":
+        "https://image.isu.pub/180417205602-546e7ca16df2db2af3927dcaf35598cf/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 3,
+      "title": "CityDog Spring 2018 Issue",
+      "ownerName": "CityDog Magazine",
+      "description":
+        "Smart, city-savvy and fun, CityDog Magazine brings the joys of life and living with our four-legged...",
+      "imageUrl":
+        "https://image.isu.pub/180417180334-f1f16dc0e8dcf91e3d582a23673e5383/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 4,
+      "title":
+        "Best Friends, Pet Magazine, Ontario Veterinary College, Spring/Summer 2018",
+      "ownerName": "OVC Pet Trust",
+      "description":
+        "Best Friends is the pet magazine of the Ontario Veterinary College, University of Guelph.",
+      "imageUrl":
+        "https://image.isu.pub/180416161258-701c3fda5eea6e41138bda54d744c714/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 5,
+      "title": "BirdsChile 2018-19",
+      "ownerName": "BirdsChile",
+      "description": "Our Birding and Nature expeditions along Chile.",
+      "imageUrl":
+        "https://image.isu.pub/180412160212-dce9ef8e397d1fd6f76b37ae6c50cc06/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Spot Magazine - April / May 2018",
+      "ownerName": "Spot Magazine",
+      "description": "The Awesome Pet Guide 2018 - What to know & where to go",
+      "imageUrl":
+        "https://image.isu.pub/180412030020-07664750ca0d69fbe47b2776b5cefa21/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Washington Thoroughbred Spring 2018",
+      "ownerName": "WTBOA",
+      "description":
+        "Featuring Champions of 2017 and Year in Review, including Awards Banquet Pictorial, plus Racing...",
+      "imageUrl":
+        "https://image.isu.pub/180412025113-3f9d906c1b2b865e679857a9b694f2c1/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Born Free - Wildlife Times - Jan 2018",
+      "ownerName": "BornFree",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180411103910-ad4b6c1685e6db5b2f7f3f6007e29e9d/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Lizard Island 2017 Report",
+      "ownerName": "Australian Museum",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180410060741-b6e0d81a948c5d2445e737d0fb0fb6fc/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Fh aprilmay2018",
+      "ownerName": "Florida Equine Publications",
+      "description": "April/May 2018 issue of the Florida Horse",
+      "imageUrl":
+        "https://image.isu.pub/180409193651-b2c17c4ac24091c958deeec2b854dcc0/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Zoo View - Spring 2018",
+      "ownerName": "Greater Los Angeles Zoo Association",
+      "description":
+        "Quarterly magazine of the Greater Los Angeles Zoo Association",
+      "imageUrl":
+        "https://image.isu.pub/180409042207-9c08dfb420500b4092723eaa0cbd2370/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The WAG Magazine Spring 2018",
+      "ownerName": "The Wag Magazine",
+      "description":
+        "It is the appreciation for the blessed bond between canines and their companions that prompted...",
+      "imageUrl":
+        "https://image.isu.pub/180408223409-ad3dae3c481d495ef59fa234d857b02a/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 13,
+      "title": "TAME Pet Magazine - Winter 2017-18",
+      "ownerName": "TAME Pet Mag",
+      "description":
+        "Pet parenting with the help of technology, meet Chi Chi, Find out which animals like to snuggle...",
+      "imageUrl":
+        "https://image.isu.pub/180408214918-a93c093f6f60a12313554abf32e72512/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Localrider Magazine April May 2018 sample",
+      "ownerName": "Roundbale Ltd",
+      "description":
+        "Sample of our April May 2018 issue, the full edition has pages of local show reports, features,...",
+      "imageUrl":
+        "https://image.isu.pub/180407191354-7863a808e8b98a10599da44fb346c87c/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Horse report april 2018",
+      "ownerName": "the horse report",
+      "description":
+        "48 pages of informative and interesting articles, news stories, advertising, photos and information...",
+      "imageUrl":
+        "https://image.isu.pub/180406225217-5308aadc39119db58a55144ef7632bb7/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Reef Hobbyiest q2 2018",
+      "ownerName": "harry tung",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180406055459-2f263cfec69f41255c1e87d4e7d58425/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Aquarium q2 2018",
+      "ownerName": "harry tung",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180406055355-f3081a6dde2bd30926a048aa09062421/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 18,
+      "title": "HubVibes April 2018",
+      "ownerName": "HubVibes",
+      "description": "News and views from Equestrian Hub.",
+      "imageUrl":
+        "https://image.isu.pub/180405055415-fdb8d2fa17294ea5f5138b1c8fd923be/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 19,
+      "title": "DUTY",
+      "ownerName": "Unleash Jacksonville",
+      "description":
+        "A trained service dog can literally mean the difference between life and death to someone who...",
+      "imageUrl":
+        "https://image.isu.pub/180403151202-2d4fd25e9e6f91bfd4634f8d99ca8b86/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 20,
+      "title": "April 2018 Seawords",
+      "ownerName": "Marine Option Program",
+      "description":
+        "The April 2018 issue of the Marine Option Program's Newsletter, Seawords",
+      "imageUrl":
+        "https://image.isu.pub/180403004359-3b0f5ed7136734795c5b1e6d3ac274ba/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Thtapr18",
+      "ownerName": "Beverly Beck & Associates",
+      "description":
+        "Animal adoptions, Calendar of Events, Pet Community Interest Stories, Local Rescues/Shelters,...",
+      "imageUrl":
+        "https://image.isu.pub/180401150556-8554fbcd38d329b7847434d1aa7c6c42/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Lowcountry Dog Magazine April May 2018",
+      "ownerName": "Lowcountry Dog Magazine",
+      "description": "CHARLESTON'S DIGITAL DOG MAGAZINE\n-Daisy & DeHart:",
+      "imageUrl":
+        "https://image.isu.pub/180331193224-5247ebc891f8326f414ee298b1110aa6/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 23,
+      "title": "April 2018 Downeast Dog News",
+      "ownerName": "Jennifer Rich",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180330194634-72a354c97c5014fd210bdc06620b464c/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Saddle Up April 2018",
+      "ownerName": "Saddle Up magazine",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180330024823-41d793190fab88f7828bf20f95e2d71e/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 25,
+      "title": "April 2018",
+      "ownerName": "PawPrints Magazine",
+      "description":
+        "PawPrints Magazine is dedicated to saving the lives of homeless animals by promoting shelter...",
+      "imageUrl":
+        "https://image.isu.pub/180329183139-078e5ef50813fdc93c909e2af78b0444/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Fetch spring 2018",
+      "ownerName": "FETCH",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180329175814-815d63bdc0b6f4772c81ba8b2cd2dd94/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Scuba Diver UK April 18 - Issue 14",
+      "ownerName": "scubadivermag",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180328165350-e965a9b4366669bafd5dc1eb302bb142/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Equine Journal",
+      "ownerName": "Cowboy Publishing Group",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180328153509-8d31aeb78d640200f9d49353598d88b6/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Obmar18lowThoroughbred Owner & Breeder",
+      "ownerName": "Racehorse Owners Association",
+      "description": "Incorporating Pacemaker - March 2018",
+      "imageUrl":
+        "https://image.isu.pub/180328133425-d01fb545d12cbf67a2edb01f487da96d/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Thoroughbred Owner & Breeder",
+      "ownerName": "Racehorse Owners Association",
+      "description": "Incorporating Pacemaker - February 2018",
+      "imageUrl":
+        "https://image.isu.pub/180328133253-e913d5caee01747be4cbb3d47c218951/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 31,
+      "title": "The International Journal of Falconry 2017",
+      "ownerName": "Robert Zmuda",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180327200315-6d5f39c344e11c6f1fd197fb31115dcb/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 32,
+      "title": "The International Journal of Falconry 2016",
+      "ownerName": "Robert Zmuda",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180327195733-37c41fd79355e6d4ac52f0199f992b07/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Landscope Autumn 2018",
+      "ownerName": "WA Naturally",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180327070417-23ea9f004e21b30fa76d6207851df0f0/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Scuba Diver Asia Pacific April/May - Issue 1",
+      "ownerName": "scubadivermag",
+      "description":
+        "Dive travel from Wakatobi, New Zealand, Australia PLUS Technical, Freediving, Spearfishing,...",
+      "imageUrl":
+        "https://image.isu.pub/180326104159-cb2c9d42edab165c5d71a1e9ba0f2884/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 35,
+      "title": "DWT Spring Magazine 2018",
+      "ownerName": "Jane Adams",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180326102002-8fb24206d59327bcf25a9123335c300b/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Absolute Horse April 2018",
+      "ownerName": "Absolute Horse Magazine",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180326100315-ecb9391762a9e742d62b515cb39dee45/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Scuba Diver Febraury 18 - Issue 12",
+      "ownerName": "scubadivermag",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180322144753-b63a6b6ad91638938b53dff05b638bb1/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Scuba Diver January 18 - Issue 11",
+      "ownerName": "scubadivermag",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180322144433-0ad4df223af5e84be341392e779ba449/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Scuba Diver December 17 - Issue 10",
+      "ownerName": "scubadivermag",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180322144358-6daea7630c1f7ccebec12025883c685d/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Scuba Diver March 17 - Issue 1",
+      "ownerName": "scubadivermag",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180322142523-36ca8810f7bd11c5eff1cb9d859a0811/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Dive Pacific April/May 2018 Iss 163 lr",
+      "ownerName": "Dive Publishing",
+      "description":
+        "Dive Pacific is the region's most comprehensive and authoritative magazine for divers and those...",
+      "imageUrl":
+        "https://image.isu.pub/180321213442-d528d45b086e75a5134a5bf4c7c1a67f/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Arabian Horse Life Magazine mini-issue 2 2018",
+      "ownerName": "Arabian Horse Association",
+      "description":
+        "The Arabian Horse Association's (AHA) member magazine, Arabian Horse Life (AHL) is due to hit...",
+      "imageUrl":
+        "https://image.isu.pub/180321194746-88641197d995e037dc6b18b546898374/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Natural habitat adventures australia",
+      "ownerName": "Adventure World Travel",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180320235356-5a9dcbc7550243289342d77069ec3083/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Pet Companion Magazine, Spring 2018",
+      "ownerName": "PetCompanionMag",
+      "description": "Southern California's local magazine for pet lovers.",
+      "imageUrl":
+        "https://image.isu.pub/180319155048-2efbe51dd9630a39bb1ec9397296e181/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 45,
+      "title": "HubVibes March 2018",
+      "ownerName": "HubVibes",
+      "description": "News and views from Australia's equine community.",
+      "imageUrl":
+        "https://image.isu.pub/180316022942-f0553fba95e05b72644ed20fef6ff53b/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Horsemart spring 2018",
+      "ownerName": "Kate Kidger FAD",
+      "description": "Horses for sale, horse equipment and all things equine",
+      "imageUrl":
+        "https://image.isu.pub/180315152224-9754bc2b67474cffed7d7cb6d237dc2e/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 47,
+      "title": "4 Legs & a Tail Rutland Spring 2018",
+      "ownerName": "4 Legs & a Tail",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180314190002-67ed5c3491e82e5c7aa8139a8d1a289f/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 48,
+      "title": "4 Legs & a Tail North Spring 2018",
+      "ownerName": "4 Legs & a Tail",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180314185834-1ef7ce84c7c76347b94436a413f98ef2/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 49,
+      "title": "The Travelling Naturalist Newsletter Summer 2018",
+      "ownerName": "The Natural Travel Collection Ltd",
+      "description":
+        "Our latest newsletter is packed full of new tours to inspire your next birdwatching and wildlife...",
+      "imageUrl":
+        "https://image.isu.pub/180314111242-bc89bc1624a8a51288ebba4a0e494b11/jpg/page_1_thumb_large.jpg"
+    },
+    {
+      "id": 50,
+      "title": "2017 USPA Annual Report",
+      "ownerName": "United States Polo Association",
+      "description": "",
+      "imageUrl":
+        "https://image.isu.pub/180313154548-e4f7e7d6226781ed8b06714e7d4f088d/jpg/page_1_thumb_large.jpg"
+    }
+  ]
+}
