@@ -9,6 +9,10 @@ import {
 } from 'react-virtualized';
 import 'react-virtualized/styles.css';
 
+import { Query } from 'react-apollo';
+
+import getIssuesQuery from '../graphql/queries/getIssues';
+
 class Magazines extends Component {
   constructor() {
     super();
@@ -26,43 +30,18 @@ class Magazines extends Component {
       spacer: 30,
     });
 
-    this.state = {
-      isLoading: true,
-      magazines: [],
-    };
-
     this._cellRenderer = this._cellRenderer.bind(this);
   }
 
-  componentDidMount() {
-    fetch('http://localhost:3001/magazines')
-      .then(response => {
-        if (response.ok) {
-          return response.json();
-        }
-      })
-      .then(data => {
-        this.setState({
-          magazines: data || [],
-          isLoading: false,
-        });
-      })
-      .catch(error => {
-        this.setState({
-          isLoading: false,
-        });
-      });
-  }
-
   _cellRenderer(props) {
-    const { index, key, parent, style } = props;
-    const datum = this.state.magazines[index];
+    const { index, key, parent, style, issues } = props;
+    const datum = parent.props.issues[index];
     return (
       <CellMeasurer cache={this.cache} index={index} key={key} parent={parent}>
         <div className="magazine-wrapper" style={style}>
           <img
             alt={datum.title}
-            src={datum.imageUrl}
+            src={datum.cover}
             style={{
               height: 250,
               width: 225,
@@ -71,7 +50,7 @@ class Magazines extends Component {
           <div className="metadata">
             <h5>{datum.title}</h5>
             <p className="ownername">
-              <a>{datum.ownerName}</a>
+              <a>{datum.publisher.title}</a>
             </p>
             <p className="description">{datum.description}</p>
           </div>
@@ -81,31 +60,42 @@ class Magazines extends Component {
   }
 
   render() {
-    const { magazines } = this.state;
     return (
       <div className="magazine-container">
-        {magazines && (
-          <WindowScroller>
-            {({ height, scrollTop, isScrolling }) => (
-              <AutoSizer disableHeight height={height} scrollTop={scrollTop}>
-                {({ width }) => (
-                  <Masonry
-                    autoHeight
-                    cellCount={magazines.length}
-                    cellMeasurerCache={this.cache}
-                    cellPositioner={this.cellPositioner}
-                    cellRenderer={this._cellRenderer}
-                    isScrolling={isScrolling}
-                    scrollTop={scrollTop}
-                    height={height}
-                    width={width}
-                    magazines={magazines}
-                  />
-                )}
-              </AutoSizer>
-            )}
-          </WindowScroller>
-        )}
+        <Query query={getIssuesQuery}>
+          {({ loading, error, data: { issues } }) => {
+            if (loading) {
+              return <span> Loading </span>;
+            } else {
+              return (
+                <WindowScroller>
+                  {({ height, scrollTop, isScrolling }) => (
+                    <AutoSizer
+                      disableHeight
+                      height={height}
+                      scrollTop={scrollTop}
+                    >
+                      {({ width }) => (
+                        <Masonry
+                          autoHeight
+                          cellCount={issues.length}
+                          cellMeasurerCache={this.cache}
+                          cellPositioner={this.cellPositioner}
+                          cellRenderer={this._cellRenderer}
+                          isScrolling={isScrolling}
+                          scrollTop={scrollTop}
+                          height={height}
+                          width={width}
+                          issues={issues}
+                        />
+                      )}
+                    </AutoSizer>
+                  )}
+                </WindowScroller>
+              );
+            }
+          }}
+        </Query>
       </div>
     );
   }
